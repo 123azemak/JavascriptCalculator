@@ -1,0 +1,14 @@
+#grad1 {
+  height: 900px;
+  background-image: linear-gradient(to bottom right, #99ade9, #f9b5b7);
+  background-repeat: no-repeat;
+}
+.form-control {
+  background: #daebf8;
+}
+h4 {
+  color: white;
+}
+h2 {
+  color: white;
+}
